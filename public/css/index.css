@@ -1,0 +1,16 @@
+/* div.main{
+  content:url(http://blog.mitx.org/Portals/52731/images/lightbulb%203-resized-600.jpg);
+}
+
+ */
+
+h4 {
+  font-family: inherit;
+    font-size: 165px; 
+    font-weight: bold;
+    letter-spacing: -1px; 
+    line-height: 1; 
+    text-align: center;
+  z-index: 1;
+  position: relative;
+}
